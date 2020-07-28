@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github.com/gpstrange/gpstrange/blob/master/mycaffine.png" alt="Gpstrange with caffine" width=350px height=465px/>
+<img align="right" src="https://github.com/gpstrange/gpstrange/blob/master/mycaffine.png" alt="Gpstrange with caffine" width=300px height=350px/>
 
 ### Hi, I'm Guru (aka GpStrange) 👋
 
