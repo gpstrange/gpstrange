@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github.com/gpstrange/gpstrange/blob/master/mycaffine.png" alt="Gpstrange with caffine" width=300px height=350px/>
 
-### Hi, I'm Guru (aka GpStrange) 👋
+### Hi, I'm Guru Prasad (aka GpStrange) 👋
 
 I am a crazy coder, caffine lover and a stranger to you (perhaps). I write code to keep myself busy. Technically, I'm a full stack JavaScript developer.
 
