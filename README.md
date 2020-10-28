@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Guru Prasad (aka GpStrange) 👋
 
-I am a crazy coder, caffine lover and a stranger to you (perhaps). I write code to keep myself busy. Technically, I'm a full stack JavaScript developer.
+I am a crazy coder, caffine lover and a stranger to you (perhaps). I write code to keep myself busy. Technically, I'm a full stack JavaScript developer, cofounder of [Cubernest](http://cubernest.com/).
 
 - 📱  I am now working at [Gamenous](http://gamenous.com/).
 - 🌱  I am currently learning JavaScript (Since 2017).
