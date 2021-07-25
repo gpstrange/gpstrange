@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 I am a crazy coder, caffine lover and a stranger to you (perhaps). I write code to keep myself busy. Technically, I'm a full stack JavaScript developer, cofounder of [Cubernest](http://cubernest.com/).
 
-- 📱  I am now working at [Gamenous](http://gamenous.com/).
-- 🌱  I am currently learning JavaScript (Since 2017).
+- 📱  I am now working at [ThoughtWorks](http://thoughtworks.com/)
+- 😄  Pronouns: He/Him
 - 📫  Mail gpstrange1@gmail.com
 - 🐦  Twitter [@Gpstrange](http://twitter.com/gpstrange)
 - 📷  Instagram [@Gpstrange](http://instagram.com/gpstrange)
